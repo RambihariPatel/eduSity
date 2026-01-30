@@ -70,3 +70,7 @@ nav ul li .btn:active {
     margin-left: 10px;
 }
 
+.btn.dark-button {
+    background: #212EA0;
+    color: #fff;
+}
