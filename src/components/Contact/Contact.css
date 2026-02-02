@@ -129,3 +129,12 @@
 }
 
 
+@media (max-screen) {
+  .contact {
+    display: block;
+  }
+  .contact-col {
+    padding: 20px;
+  }
+  
+}

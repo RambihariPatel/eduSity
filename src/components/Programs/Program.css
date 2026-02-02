@@ -55,3 +55,18 @@
     padding-top: 0;
      
 }
+
+/* ----media----query----*/
+
+@media (max-width) {
+    .programs {
+        flex-direction: column;
+
+    }
+    .program {
+        flex-basis: 100%;
+        margin: 20px;
+    }
+}
+
+
