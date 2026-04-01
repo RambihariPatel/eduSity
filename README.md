@@ -24,7 +24,7 @@ Edusity is a modern and responsive educational platform designed to help users e
 - **Storage:** LocalStorage
 - **Deployment:** Netlify
 
----
+
 
 ## 📸 Screenshots
 
